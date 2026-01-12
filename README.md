@@ -1,4 +1,4 @@
-# LSLFormer
+# LSLFormer: A Lightweight Spectral-LiDAR Fusion Network for Remote Sensing Image Classification
 
 
 You can download the Houston2013 dataset we use from the following links of google drive or baiduyun:
