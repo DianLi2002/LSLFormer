@@ -2,7 +2,7 @@
 
 Dian Li, Siyuan Hao, Cheng Fang, Yuanxin Ye
 
-(./LSLF.png)
+![alt text](./LSLF.png)
 
 ___________
 
