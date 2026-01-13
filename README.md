@@ -1,5 +1,10 @@
 # LSLFormer: A Lightweight Spectral-LiDAR Fusion Network for Remote Sensing Image Classification
 
+Dian Li, Siyuan Hao, Cheng Fang, Yuanxin Ye
+
+(./SpectralFormer.PNG)
+
+___________
 
 You can download the Houston2013 dataset we use from the following links of google drive or baiduyun:
 
