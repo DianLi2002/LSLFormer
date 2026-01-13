@@ -2,7 +2,7 @@
 
 Dian Li, Siyuan Hao, Cheng Fang, Yuanxin Ye
 
-(./SpectralFormer.PNG)
+(./LSLF.PNG)
 
 ___________
 
