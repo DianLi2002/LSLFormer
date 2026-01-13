@@ -5,7 +5,6 @@ Dian Li, Siyuan Hao, Cheng Fang, Yuanxin Ye
 ___________
 ![alt text](./LSLF.png)
 
-___________
 # Dataset
 
 You can download the Houston2013 dataset we use from the following links of google drive or baiduyun:
