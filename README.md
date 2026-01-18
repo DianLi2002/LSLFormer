@@ -25,17 +25,17 @@ Citation
 
 Dian Li, Siyuan Hao, Cheng Fang, Yuanxin Ye. LSLFormer: A Lightweight Spectral-LiDAR Fusion Network for Remote Sensing Image Classification, IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026, DOI: 10.1109/TGRS.2026.3654154.
 
-  @ARTICLE{11352989,
-    author={Li, Dian and Hao, Siyuan and Fang, Cheng and Ye, Yuanxin},
-    journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-    title={LSLFormer: A Lightweight Spectral-LiDAR Fusion Network for Remote Sensing Image Classification}, 
-    year={2026},
-    volume={},
-    number={},
-    pages={1-1},
-    keywords={Laser radar;Transformers;Feature extraction;Computational modeling;Computational efficiency;Accuracy;Image classification;Geology;Data models;Reviews;Hyperspectral images;LiDAR;data fusion;Transformer;lightweight;remote sensing},
-    doi={10.1109/TGRS.2026.3654154}
-  }
+    @ARTICLE{11352989,
+      author={Li, Dian and Hao, Siyuan and Fang, Cheng and Ye, Yuanxin},
+      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+      title={LSLFormer: A Lightweight Spectral-LiDAR Fusion Network for Remote Sensing Image Classification}, 
+      year={2026},
+      volume={},
+      number={},
+      pages={1-1},
+      keywords={Laser radar;Transformers;Feature extraction;Computational modeling;Computational efficiency;Accuracy;Image classification;Geology;Data models;Reviews;Hyperspectral images;LiDAR;data fusion;Transformer;lightweight;remote sensing},
+      doi={10.1109/TGRS.2026.3654154}
+    }
 
   @article{11352989,
     author={Li, Dian and Hao, Siyuan and Fang, Cheng and Ye, Yuanxin},
