@@ -10,12 +10,12 @@ An overview illustration of the proposed Lightweight Spectral-LiDAR Fusion Netwo
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./sla.png" width="45%" />
+      <img src="./sla.png" width="50%" />
       <br>
       <b>Detailed structure of Spectral-LiDAR Attention</b>
     </td>
     <td align="center">
-      <img src="./flops.png" width="45%" />
+      <img src="./flops.png" width="50%" />
       <br>
       <b>Computation cost and Overall Accuracy of different methods</b>
     </td>
