@@ -65,9 +65,8 @@ python train.py \
     --weight_decay=5e-3 \
     --dataset='houston2013' \
     --flag_test='train'
-```bash
 
-🧪 Test the model
+###🧪 Test the model
 
 python train.py \
     --patches=7 \
@@ -76,4 +75,13 @@ python train.py \
     --dataset='houston2013' \
     --flag_test='test'
 
-
+@ARTICLE{11352989,
+  author={Li, Dian and Hao, Siyuan and Fang, Cheng and Ye, Yuanxin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={LSLFormer: A Lightweight Spectral–LiDAR Fusion Network for Remote Sensing Image Classification}, 
+  year={2026},
+  volume={64},
+  number={},
+  pages={1-12},
+  doi={10.1109/TGRS.2026.3654154}
+}
