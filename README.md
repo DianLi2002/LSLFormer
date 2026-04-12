@@ -67,6 +67,7 @@ python train.py \
     --flag_test='train'
 
 ###🧪 Test the model
+
 ```bash
 python train.py \
     --patches=7 \
