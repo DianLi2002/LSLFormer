@@ -64,7 +64,7 @@ python train.py \
     --weight_decay=5e-3 \
     --dataset='houston2013' \
     --flag_test='train'
-```
+
 
 ### Teast the model
 
@@ -79,9 +79,7 @@ python train.py \
 
 ##📖 Citation
 
-```
 Please kindly cite the papers if this code is useful and helpful for your research.
-```
 
 ```bibtex
 @ARTICLE{11352989,
