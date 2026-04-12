@@ -77,7 +77,7 @@ python train.py \
     --flag_test='test'
 ```
 
-###📖 Citation
+##📖 Citation
 Please kindly cite the papers if this code is useful and helpful for your research.
 
 ```bibtex
@@ -91,8 +91,11 @@ Please kindly cite the papers if this code is useful and helpful for your resear
   pages={1-12},
   doi={10.1109/TGRS.2026.3654154}
 }
+```
 
-###📄 License
+```
+##📄 License
 This project is released under the MIT License.
+```
 
-<div align="center"> <sub>⭐ If you like our work, please consider giving this repository a star!</sub> </div> ```
+```<div align="center"> <sub>⭐ If you like our work, please consider giving this repository a star!</sub> </div> ```
