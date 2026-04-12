@@ -65,6 +65,7 @@ python train.py \
     --weight_decay=5e-3 \
     --dataset='houston2013' \
     --flag_test='train'
+```bash
 
 🧪 Test the model
 
