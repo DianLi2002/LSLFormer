@@ -66,9 +66,8 @@ python train.py \
     --dataset='houston2013' \
     --flag_test='train'
 
-###🧪 Test the model
+🧪 Test the model
 
-```bash
 python train.py \
     --patches=7 \
     --band_patches=3 \
