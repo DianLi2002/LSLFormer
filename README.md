@@ -98,4 +98,4 @@ Please kindly cite the papers if this code is useful and helpful for your resear
 This project is released under the MIT License.
 ```
 
-```<div align="center"> <sub>⭐ If you like our work, please consider giving this repository a star!</sub> </div> ```
+<div align="center"> <sub>⭐ If you like our work, please consider giving this repository a star!</sub> </div> 
