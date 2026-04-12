@@ -65,9 +65,7 @@ python train.py \
     --dataset='houston2013' \
     --flag_test='train'
 
----
-
-### Test the model
+### Teast the model
 
 ```bash
 python train.py \
@@ -76,12 +74,11 @@ python train.py \
     --weight_decay=5e-3 \
     --dataset='houston2013' \
     --flag_test='test'
----
 
 ###📖 Citation
 Please kindly cite the papers if this code is useful and helpful for your research.
 
-bibtex
+```bibtex
 @ARTICLE{11352989,
   author={Li, Dian and Hao, Siyuan and Fang, Cheng and Ye, Yuanxin},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -92,7 +89,8 @@ bibtex
   pages={1-12},
   doi={10.1109/TGRS.2026.3654154}
 }
-📄 License
+
+###📄 License
 This project is released under the MIT License.
 
 <div align="center"> <sub>⭐ If you like our work, please consider giving this repository a star!</sub> </div> ```
