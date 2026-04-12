@@ -4,10 +4,10 @@ Dian Li, Siyuan Hao, Cheng Fang, Yuanxin Ye
 
 ___________
 ![alt text](./LSLF.png)
-
+An overview illustration of the proposed Lightweight Spectral-LiDAR Fusion Network
 
 ![alt text](./sla.png)
-
+Detailed structure of Spectral-LiDAR Attention
 
 # Dataset
 
