@@ -6,7 +6,7 @@ ___________
 ![alt text](./LSLF.png)
 
 
-![alt text](./sla.pdf)
+![alt text](./sla.png)
 
 
 # Dataset
