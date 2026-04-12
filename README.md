@@ -9,6 +9,9 @@ An overview illustration of the proposed Lightweight Spectral-LiDAR Fusion Netwo
 ![alt text](./sla.png)
 Detailed structure of Spectral-LiDAR Attention
 
+![alt text](./flops.png)
+Computation cost and Overall Accuracy of different methods
+
 # Dataset
 
 You can download the Houston2013 dataset we use from the following links of google drive or baiduyun:
