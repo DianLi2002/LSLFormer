@@ -1,3 +1,4 @@
+markdown
 <div align="center">
 
 # LSLFormer: A Lightweight Spectral-LiDAR Fusion Network
@@ -90,4 +91,3 @@ bibtex
 This project is released under the MIT License.
 
 <div align="center"> <sub>⭐ If you like our work, please consider giving this repository a star!</sub> </div> ```
-复制后，在 GitHub 编辑页面点击 Preview 确
