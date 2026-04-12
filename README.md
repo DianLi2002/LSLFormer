@@ -6,11 +6,21 @@ ___________
 ![alt text](./LSLF.png)
 An overview illustration of the proposed Lightweight Spectral-LiDAR Fusion Network
 
-![alt text](./sla.png)
-Detailed structure of Spectral-LiDAR Attention
-
-![alt text](./flops.png)
-Computation cost and Overall Accuracy of different methods
+<!-- 👇 两张图片同行缩小+居中标题 👇 -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./sla.png" width="45%" />
+      <br>
+      <b>Detailed structure of Spectral-LiDAR Attention</b>
+    </td>
+    <td align="center">
+      <img src="./flops.png" width="45%" />
+      <br>
+      <b>Computation cost and Overall Accuracy of different methods</b>
+    </td>
+  </tr>
+</table>
 
 # Dataset
 
