@@ -4,7 +4,6 @@
 ### for Remote Sensing Image Classification
 
 [![IEEE TGRS](https://img.shields.io/badge/IEEE_TGRS-10.1109/TGRS.2026.3654154-blue?logo=ieee)](https://doi.org/10.1109/TGRS.2026.3654154)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Dian Li, Siyuan Hao, Cheng Fang, Yuanxin Ye**  
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026*
