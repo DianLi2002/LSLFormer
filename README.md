@@ -1,7 +1,6 @@
 <div align="center">
 
-# LSLFormer: A Lightweight Spectral-LiDAR Fusion Network
-### for Remote Sensing Image Classification
+# LSLFormer: A Lightweight Spectral-LiDAR Fusion Network for Remote Sensing Image Classification
 
 [![IEEE TGRS](https://img.shields.io/badge/IEEE_TGRS-10.1109/TGRS.2026.3654154-blue?logo=ieee)](https://doi.org/10.1109/TGRS.2026.3654154)
 
