@@ -15,7 +15,7 @@
 ## 📸 Overview
 
 <p align="center">
-  <img src="./LSLF.png" width="90%" alt="LSLFormer architecture overview"/>
+  <img src="./Figure/LSLF.png" width="90%" alt="LSLFormer architecture overview"/>
   <br/>
   <b>An overview illustration of the proposed Lightweight Spectral-LiDAR Fusion Network</b>
 </p>
@@ -27,12 +27,12 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="./sla.png" width="100%" />
+      <img src="./Figure/sla.png" width="100%" />
       <br>
       <b>🔬 Detailed structure of Spectral-LiDAR Attention</b>
     </td>
     <td align="center" width="50%">
-      <img src="./flops.png" width="100%" />
+      <img src="./Figure/flops.png" width="100%" />
       <br>
       <b>📊 Computation cost & Overall Accuracy of different methods</b>
     </td>
