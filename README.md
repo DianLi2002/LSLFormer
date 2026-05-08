@@ -15,7 +15,7 @@
 ## 📸 Overview
 
 <p align="center">
-  <img src="./Figure/LSLF.png" width="90%" alt="LSLFormer architecture overview"/>
+  <img src="./LSLF.png" width="90%" alt="LSLFormer architecture overview"/>
   <br/>
   <b>An overview illustration of the proposed Lightweight Spectral-LiDAR Fusion Network</b>
 </p>
